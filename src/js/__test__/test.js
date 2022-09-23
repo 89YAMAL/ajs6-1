@@ -1,4 +1,4 @@
-import orderByProps from '../game';
+import orderByProps from './game';
 
 const obj = {
   name: 'мечник',
